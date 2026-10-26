@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Administracion FCA UNAM//ES
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Administración 2027-1
+BEGIN:VEVENT
+UID:adm2027-1@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:ENTREGA TARDÍA U1 Act. complementaria 1 – Infografía de recursos (máx. 8)
+DESCRIPTION:Último día para entrega extemporánea (6%). Recursos humanos, financieros, técnicos y materiales: definición, elementos, importancia, ejemplo. PDF.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ENTREGA TARDÍA U1 Act. complementaria 1 – Infografía de recursos (máx. 8)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ENTREGA TARDÍA U1 Act. complementaria 1 – Infografía de recursos (máx. 8)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-2@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:U2 Act. 1 – Aportaciones de civilizaciones antiguas (4%)
+DESCRIPTION:Seleccionar 5 aportaciones y justificar. PDF.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U2 Act. 1 – Aportaciones de civilizaciones antiguas (4%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U2 Act. 1 – Aportaciones de civilizaciones antiguas (4%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-3@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:U2 Act. complementaria 1 – VIDEO colaborativo (16%)
+DESCRIPTION:Equipos 3-4. Video 10-15 min de los 9 enfoques: énfasis, 3 autores, aportaciones, críticas. Coordinador sube link en Word.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U2 Act. complementaria 1 – VIDEO colaborativo (16%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U2 Act. complementaria 1 – VIDEO colaborativo (16%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-4@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:U3 Act. 34 – Estilos de liderazgo + entrevista a gerente (4%)
+DESCRIPTION:Cuadro sinóptico + entrevista + argumentación. PDF.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U3 Act. 34 – Estilos de liderazgo + entrevista a gerente (4%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U3 Act. 34 – Estilos de liderazgo + entrevista a gerente (4%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-5@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:U3 Act. complementaria 1 – Mapa conceptual del proceso administrativo (6%)
+DESCRIPTION:Definición, fases mecánica y dinámica, concepto/importancia/principios/elementos de cada etapa. PDF.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U3 Act. complementaria 1 – Mapa conceptual del proceso administrativo (6%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U3 Act. complementaria 1 – Mapa conceptual del proceso administrativo (6%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-6@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:U4 Act. complementaria 1 – Cuadro sinóptico áreas funcionales (6%)
+DESCRIPTION:Objetivo de cada área y departamento, subfunciones + conclusión media cuartilla. PDF.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U4 Act. complementaria 1 – Cuadro sinóptico áreas funcionales (6%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U4 Act. complementaria 1 – Cuadro sinóptico áreas funcionales (6%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-7@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:U4 Act. 1 – Foro: Factor humano en las organizaciones (4%)
+DESCRIPTION:Participar en foro y elaborar conclusión en conjunto.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U4 Act. 1 – Foro: Factor humano en las organizaciones (4%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U4 Act. 1 – Foro: Factor humano en las organizaciones (4%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-8@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:U5 Act. 2 – Mapa mental de tipos de estrategias (4%)
+DESCRIPTION:PDF.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U5 Act. 2 – Mapa mental de tipos de estrategias (4%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U5 Act. 2 – Mapa mental de tipos de estrategias (4%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-9@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:U5 Act. complementaria 1 – Tres matrices FODA (6%)
+DESCRIPTION:Organización, tú como colaborador, tú como estudiante SUAyED. PDF.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U5 Act. complementaria 1 – Tres matrices FODA (6%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U5 Act. complementaria 1 – Tres matrices FODA (6%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-10@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:U6 Act. 8 – Reporte ética/RSE/sustentabilidad (4%)
+DESCRIPTION:3 aspectos: antecedentes, situación actual, importancia. PDF.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U6 Act. 8 – Reporte ética/RSE/sustentabilidad (4%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U6 Act. 8 – Reporte ética/RSE/sustentabilidad (4%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-11@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:U6 Act. complementaria 1 – Infografía derecho humano (6%)
+DESCRIPTION:Definición, generación, importancia, gestión CDHCM, conclusión. PDF.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U6 Act. complementaria 1 – Infografía derecho humano (6%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U6 Act. complementaria 1 – Infografía derecho humano (6%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-12@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261101
+SUMMARY:PRIMER PARCIAL – Unidades 1, 2 y 3 (15%)
+DESCRIPTION:Consultar calendario de aplicación.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PRIMER PARCIAL – Unidades 1, 2 y 3 (15%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PRIMER PARCIAL – Unidades 1, 2 y 3 (15%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-13@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270117
+SUMMARY:SEGUNDO PARCIAL – Unidades 4, 5 y 6 (15%)
+DESCRIPTION:Consultar calendario de aplicación.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SEGUNDO PARCIAL – Unidades 4, 5 y 6 (15%)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SEGUNDO PARCIAL – Unidades 4, 5 y 6 (15%)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adm2027-14@fca
+DTSTAMP:20260928T040000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270124
+SUMMARY:Examen GLOBAL (opcional, 100%, presencial FCA)
+DESCRIPTION:Requiere inscripción. Renuncias a calificaciones previas.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Examen GLOBAL (opcional, 100%, presencial FCA)
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Examen GLOBAL (opcional, 100%, presencial FCA)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

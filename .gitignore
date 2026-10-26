@@ -1,0 +1,12 @@
+# Material oficial de la UNAM/FCA: NO se sube (derechos reservados y datos de asesores)
+Apunte*Digital*.pdf
+*Plan*de*Trabajo*.pdf
+*PLAN*DE*TRABAJO*.pdf
+Temario*.pdf
+LI_*.pdf
+# Archivos de sistema y temporales
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
